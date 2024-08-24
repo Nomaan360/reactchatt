@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/reactchatt/static/css/main.f855e6bc.css",
+    "main.js": "/reactchatt/static/js/main.d40e8947.js",
+    "static/js/812.f6be7754.chunk.js": "/reactchatt/static/js/812.f6be7754.chunk.js",
+    "static/js/453.705ec67b.chunk.js": "/reactchatt/static/js/453.705ec67b.chunk.js",
+    "index.html": "/reactchatt/index.html",
+    "main.f855e6bc.css.map": "/reactchatt/static/css/main.f855e6bc.css.map",
+    "main.d40e8947.js.map": "/reactchatt/static/js/main.d40e8947.js.map",
+    "812.f6be7754.chunk.js.map": "/reactchatt/static/js/812.f6be7754.chunk.js.map",
+    "453.705ec67b.chunk.js.map": "/reactchatt/static/js/453.705ec67b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.d40e8947.js"
+  ]
+}
